@@ -51,7 +51,7 @@ If you are using a 'easy_install/pip', download and install those libraries runn
 
 The first time you runs this script, you need to assign the OAuth settings.
 
-    1. Edit "tinfoleak.py"
+    1. Edit "tinfoleak.conf"
     Use your favorite editor ;-)
 
     2. Give value to these variables:
@@ -63,10 +63,10 @@ The first time you runs this script, you need to assign the OAuth settings.
     How to obtain these values:
     https://dev.twitter.com/discussions/631
 
-    3. Save "tinfoleak.py"
+    3. Save "tinfoleak.conf"
 
 
-=== 4. EXECUTION 
+=== 4. EXECUTION
 
 Execute "tinfoleak.py -h" to show Tinfoleak help.
 
