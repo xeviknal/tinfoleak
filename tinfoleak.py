@@ -66,7 +66,7 @@ class Configuration():
 			auth.set_access_token(ACCESS_TOKEN, ACCESS_TOKEN_SECRET)
 		
 			# Tweepy (a Python library for accessing the Twitter API)
-			self.api = tweepy.API(auth, secure=True)
+			self.api = tweepy.API(auth)
 			
 		except Exception, e:
 			show_error(e)
