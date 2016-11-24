@@ -42,10 +42,9 @@ You can filter all the information by:
 
 === 2. REQUIREMENTS
 
-You need to have installed Tweepy (Twitter API library for Python) in your system.
-
-Download and installation intructions:
-https://github.com/tweepy/tweepy
+Before running this script for the very first time, you need to have installed the libraries listed in 'requirements.txt'.
+If you are using a 'easy_install/pip', download and install those libraries running the following command:
+`pip install -r requirements.txt`
 
 
 === 3. CONFIGURATION
@@ -80,14 +79,4 @@ Usage Example:
 
 This work is licensed under a Creative Commons Attribution Share-Alike v4.0 License.
 https://creativecommons.org/licenses/by-sa/4.0/
-
-
-
-
-
-
-
-
-
-
 

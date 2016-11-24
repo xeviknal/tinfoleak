@@ -1,0 +1,5 @@
+tweepy
+Pillow
+exifread
+pyopenssl
+jinja2
